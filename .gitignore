@@ -1,0 +1,33 @@
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.ipch
+
+# Temporary files
+*.tmp
+~$*
+*.swp
+*.swo
+
+# Game save files
+saving.txt
+fin.txt
+fin1.txt
+profile1.txt
